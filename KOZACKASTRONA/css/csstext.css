@@ -1,0 +1,245 @@
+/* CardBox */
+#wraper1
+{
+    text-decoration: none;
+    width: 80%;
+    height: 690px;
+}
+#wraper2
+{
+    text-decoration: none;
+    width: 80%;
+    height: 690px;
+}
+.card-box {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+    z-index: 1;
+    position: relative;
+    margin-bottom: 100px
+    
+}
+
+.card-box-sub .card-box {
+    margin-top: unset;
+    margin-bottom: unset;
+    padding-top: 30px
+}
+
+.card-left {
+    text-decoration: none;
+    width: 30%;
+   
+
+}
+
+.card-item {
+    background: #fff;
+    padding: 20px 25px;
+    border-radius: 5px;
+    position: relative;
+    min-height: 275px;
+    max-height: 275px;
+    margin-bottom: 10px;
+    padding-bottom: 49px;
+    display: block;
+    transition: 1s
+}
+
+.card-long {
+    min-height: 560px
+}
+
+.home .card-item:hover {
+    background-image: unset !important
+}
+
+.home .card-contact:hover {
+    background: linear-gradient(180deg, #455678 0%, #7887a0 100%) !important
+}
+.home .card-contact1:hover {
+    background: linear-gradient(180deg, #455678 0%, #7887a0 100%) !important
+}
+
+.card-item {
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom
+}
+
+.card-long .card-img {
+    top: 120px;
+    right: unset
+}
+
+.card-title {
+    text-decoration: none;
+    margin-bottom: 10px;
+    position: relative;
+    transition: .4s
+}
+
+.card-subtitle {
+    opacity: 1;
+    transition: .8s;
+    font-size: 16px;
+    font-weight: 400;
+    z-index: 999;
+    position: relative
+}
+
+.card-longtext {
+    opacity: 0;
+    transition: .8s;
+    position: absolute;
+    top: 7px;
+    padding-right: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.card-img {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    opacity: 1;
+    transition: .4s;
+    height: 95%
+}
+
+.card-icon {
+    position: absolute;
+    bottom: 15px
+}
+
+.card-icon-hover {
+    opacity: 0;
+    color: #fd6500;
+    transition: .4s;
+    font-size: 14px;
+    display: flex;
+    font-weight: 600;
+    bottom: 17px
+}
+
+.card-right {
+    display: flex;
+    flex-direction: column;
+    width: 69%
+}
+
+.card-r-top {
+    display: flex;
+    justify-content: space-between
+}
+
+.card-r-t-left {
+    width: 49.3%
+}
+
+.card-r-t-right {
+    width: 49.3%
+}
+
+.card-r-bottom {
+    display: flex;
+    justify-content: space-between
+}
+
+.card-r-b-left {
+    width: 49.3%;
+}
+
+.card-r-b-right {
+    width: 49.3%;
+}
+.card-r-b-right1 {
+    width: 100%;
+}
+.card-r-b-left1 {
+    width: 0%;
+height: 0px;}
+.card-contact {
+    background-color: rgba(136, 136, 136, 1);
+    background-image: linear-gradient(180deg, rgba(136, 136, 136, 1) 0%, rgba(200, 200, 200, 1) 100%);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 25px
+}
+.card-contact1 {
+    background-color: rgba(136, 136, 136, 1);
+    background-image: linear-gradient(180deg, rgba(136, 136, 136, 1) 0%, rgba(200, 200, 200, 1) 100%);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.card-contact:hover {
+    background-color: rgba(68, 68, 68, 1);
+background-image: linear-gradient(180deg, rgba(68, 68, 68, 1) 0%, rgba(111, 111, 111, 1) 100%);
+}
+.card-contact1:hover {
+    background-color: rgba(68, 68, 68, 1);
+    background-image: linear-gradient(180deg, rgba(68, 68, 68, 1) 0%, rgba(111, 111, 111, 1) 100%);
+}
+
+.card-icon-hover svg {
+    margin-left: 5px
+}
+
+.card-item:hover .card-subtitle,
+.card-item:hover .card-img {
+    opacity: 0
+}
+
+.card-contact.card-item:hover .card-subtitle {
+    opacity: 1
+}
+.card-contact1.card-item:hover .card-subtitle {
+    opacity: 1
+}
+
+.card-item:hover .card-longtext {
+    display: block;
+    opacity: 1;
+    position: absolute;
+    top: 7px;
+    padding-right: 20px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.card-item:hover .card-icon {
+    opacity: 0
+}
+
+.card-item:hover .card-icon-hover {
+    opacity: 1
+}
+
+.card-btn a {
+    color: #ba4a00;
+    background: #ffd1b2;
+    display: inline-block;
+    border-radius: 8px;
+   margin-left: 30%;
+}
+.card-btna a {
+    color: #ba4a00;
+    background: #ffd1b2;
+    display: inline-block;
+    border-radius: 8px;
+   margin-left: 42%;
+}
+/* CardBox */

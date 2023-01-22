@@ -1,0 +1,157 @@
+.content18
+{
+    width: 80%;
+    height: 600px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.srodek
+{
+    
+    height: 800px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+  
+}
+
+.srodek2f{
+    width: 300px;
+    height: 300px;
+    margin-top: 26%;
+}
+
+
+
+.prawo1f
+{
+ 
+ margin-top: 15%;
+ margin-left: 10%;
+ width: 150px;
+    height: 150px;
+}
+.lewo1f
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 15%;
+    margin-right: 10%;
+     
+    
+}
+.lewo3f
+{
+    margin-top: 15%;
+    margin-right: 10%;
+    width: 150px;
+    height: 150px;
+}
+.prawo3f
+{
+    margin-top: 15%;
+    margin-left: 10%;
+    width: 150px;
+    height: 150px;
+}
+.srodek3f
+{
+    margin-top: 45%;
+    width: 150px;
+    height: 150px;
+}
+.lewo2f
+{
+margin-top: 15%;
+margin-right: 25%;
+width: 150px;
+    height: 150px;
+
+}
+.prawo2f
+{
+    margin-top: 15%;
+    margin-left: 25%;
+    width: 150px;
+    height: 150px;
+    }
+
+    
+    .lewo1
+    {
+        width: 37%;
+        float: left;
+        height: 200px;
+       
+        text-align: right;
+    }
+    .srodek1
+    {
+        height: 50px;
+        float: left;
+        width: 25%;
+        
+
+    }
+    .prawo1
+    {
+        height: 200px;
+        width: 37%;
+        float: left;
+        
+    }
+    .lewo2
+    {
+        width: 37%;
+        height: 200px;
+        float: left;
+      
+        text-align: right;
+
+    }
+    .srodek2
+    {
+        width: 25%;
+        height: 350px;
+        float: left;
+        margin-top: -12%;
+     
+        text-align: center;
+    }
+
+
+.prawo2
+{
+
+width: 37%;
+height: 200px;
+float: left;
+}
+    .lewo3
+    {
+        float: left;
+        width: 37%;
+        height: 200px;
+        margin-left: 1;
+        text-align: right;
+       
+    }
+
+    .srodek3
+    {
+       
+        width: 25%;
+        height: 200px;
+        float: left;
+        text-align: center;
+        margin-top: -2%;
+    }
+    .prawo3
+    {
+        
+        width: 37%;
+        height: 200px;
+        float: left;
+      
+    }

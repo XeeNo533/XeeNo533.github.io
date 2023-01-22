@@ -1,0 +1,70 @@
+.srodekA
+{
+    min-width: 100%;
+    background-color: whitesmoke;
+    height: 800px;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+}
+.slide11
+{
+    margin-top: 10%;
+    width: 20%;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-left: 15%;
+}
+.slide12
+{
+    margin-top: 10%;
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-left: 2%;
+}
+.slide13
+{
+    margin-top: 10%;
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-right: 15%;
+    margin-left: 2%;
+}
+.slide14
+{
+    width: 20%;
+    height: 200px; 
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.slide15
+{
+   
+    width: 20%;
+    height: 200px;
+    background-color: white;
+    border-radius: 15px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+
+}
+.nagloweki11
+{
+    font-size: 25px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 600;
+    align-content: center;
+    margin-top: 25px;
+}
